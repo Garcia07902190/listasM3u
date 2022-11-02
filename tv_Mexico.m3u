@@ -1,28 +1,27 @@
 #EXTM3U
-
 #EXTINF::-1 tvg-logo="https://i.postimg.cc/RV9qwygN/azteca-uno.png",001 Azteca Uno
 #EXTGRP:Nacionales
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678?source:iptvmate.net
 
 #EXTINF::-1 tvg-logo="https://i.postimg.cc/RhJ5jSCv/canal-de-las-estrellas.png", 002 Las Estrellas 
 #EXTGRP:Nacionales
 http://51.222.25.50:25461/live/T3XgaLFVJb/cWNfRm6qAP/61.m3u8
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/DZrkN6RV/TELEVISA-ESP.png",Televisa | México
+http://linear-317.frequency.stream/317/hls/master/playlist.m3u8
+
 #EXTINF:0,104 Foro TV
 #EXTGRP:Nacionales
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/2560px-XHTVM_-_ADN40.svg.png",ADN40 Mexico
+#EXTGRP:Nacionales
+https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
 
 #EXTINF:-1,N+
 #EXTGRP:Nacionales
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
 
-#EXTINF:0,Euronews
-#EXTGRP:Nacionales
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2q0SHhd/estrella-news.png",ESTRELLA NEWS HD
-#EXTGRP:Nacionales
-https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:0,SKY NEWS
 #EXTGRP:Nacionales
@@ -36,6 +35,13 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTGRP:Nacionales
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/.m3u8
 
+#EXTINF:0,Euronews
+#EXTGRP:Nacionales
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF: -1 group-title="MEXICO"tvg-logo ="https://i.postimg.cc/FR5xgtJf/Telemundo-AL-DIA.png",TELEMUNDO TV * |HD|
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?source:iptvmate.net
+
 #EXTINF:-1,Nacionales Univision
 #EXTGRP:Nacionales
 https://v-px.mybtv.net/live/28.m3u8?
@@ -43,6 +49,22 @@ https://v-px.mybtv.net/live/28.m3u8?
 #EXTINF:-1,A MAS (Izzi) (AMAS70)
 #EXTGRP:Nacionales
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/g0VnYypn/RT-America-ESP.png",RT EN ESPAÑOL 
+#EXTGRP:Nacionales
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2q0SHhd/estrella-news.png",ESTRELLA NEWS HD
+#EXTGRP:Nacionales
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MX | Golden Plus" tvg-name="MX | Golden Plus" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/250?cb=20201219032836&path-prefix=es" group-title="PELICULAS Y SERIES", 116 | Golden Plus
+http://8.243.108.57:8000/play/a02k
+#EXTINF:-1 tvg-id="MX | Golden Edge" tvg-name="MX | Golden Edge" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golden_Edge_Logo_2020.png/210px-Golden_Edge_Logo_2020.png" group-title="PELICULAS Y SERIES", 117 | Golden Edge
+http://181.119.67.75:8000/play/CH49
+#EXTINF:-1 tvg-id="MX | Multipremier" tvg-name="MX | Multipremier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/150px-Multipremier_logo.svg.png" group-title="PELICULAS Y SERIES", 118 | Multipremier
+http://181.119.67.75:8000/play/CH11
 
 #EXTINF:0 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg",Golden Premier (GLDPRD2)
 #EXTGRP:PELCULAS
@@ -52,13 +74,15 @@ https://linear-408.frequency.stream/dist/localnow/408/hls/master/playlist.m3u8
 #EXTGRP:PELCULAS
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/d125b595ce67c76f8b6b55ef94c34272.jpg",HBO
-#EXTGRP:PELCULAS
-http://bulltv.us:2999/darlin/darlin/87
+#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i.postimg.cc/x8HRTdWb/VIWIX-TV-ESTRENOS.png", Viwix TV Estrenos * | CL
+https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/7a5262aeaebfd61a28106eee27a60dc6.jpg",HBO 2 (HBO2MHD)
-#EXTGRP:PELCULAS
-http://newultra.xyz:8080/jesus82399/GBbdheUdfZ/149
+#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i.postimg.cc/h4V1HXg9/VIWIX-TV-TERROR.png", Viwix TV Terror * | CL
+https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i.postimg.cc/FKjCHYmX/VIWIX-TV-ACCION.png", Viwix TV Accion * | CL
+https://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO Plus (HBOPLHD)
 #EXTGRP:PELCULAS
@@ -96,15 +120,20 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTGRP:Infantiles
 http://51.222.25.50:25461/BULLN3W/c3xmQXEyqf/63
 
+#EXTINF: -1 group-title="ESPAÑA"tvg-logo ="https://i.postimg.cc/nL468DjT/Cartoon-Network-ESP.png",Cartoon Network Latino * |HD|
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
 #EXTINF:0,⚽Fox Sports Op2
 #EXTGRP:Deportes
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
 
+#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",Win Sports+
+http://fortv.cc:8080/Rock/hastings420/78697
+
 #EXTINF:-1 ,⛔Extasy4k
 #EXTGRP:+18
 http://213.81.133.133:8080/extasy4k/index.m3u8
-
 
 
 #EXTINF:-1 ,⛔Hustler HD
