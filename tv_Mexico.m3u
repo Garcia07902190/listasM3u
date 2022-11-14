@@ -7,9 +7,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTGRP:Nacionales
 http://51.222.25.50:25461/live/T3XgaLFVJb/cWNfRm6qAP/61.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/DZrkN6RV/TELEVISA-ESP.png",Televisa | México
-http://linear-317.frequency.stream/317/hls/master/playlist.m3u8
-
 #EXTINF:0,104 Foro TV
 #EXTGRP:Nacionales
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
