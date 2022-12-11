@@ -12,6 +12,10 @@ http://200.48.19.140:10021/play/a00i
 #EXTGRP:Nacionales
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
+#EXTINF:0,Milenio TV
+#EXTGRP:Nacionales
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/714.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/XHTVM_-_ADN40.svg/2560px-XHTVM_-_ADN40.svg.png",ADN40 Mexico
 #EXTGRP:Nacionales
 http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/676.m3u8
