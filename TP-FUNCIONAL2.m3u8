@@ -7,7 +7,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTGRP:Nacionales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=27&f=HLS&f=.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PfDd3yCY/azteca-uno.png",AZTECA UNO -2h
 #EXTGRP:Nacionales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1870&f=HLS&f=.m3u8
@@ -37,6 +36,23 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTINF:-1 tvg-id="Azteca7.mx " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png",007 Azteca 7 (QATAR FUT)
 #EXTGRP:Nacionales
 http://odenfull.co:2086/142536/142536/22303
+
+#EXTINF:0,ADN40 
+#EXTGRP:Nacionales
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=40&f=HLS&f=.m3u8
+
+#EXTINF:-1 tvg-id="ForoTV.mx",104 Foro TV (FOROTV)
+#EXTGRP:Nacionales
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=104&f=HLS&f=.m3u8
+
+#EXTINF:-1,N+
+#EXTGRP:Nacionales
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://i.postimg.cc/RZhSRBKV/milemnio-tv.png",625 Milenio TV HD (MILENHD)
+#EXTGRP:Nacionales
+https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1252&f=HLS&f=.m3u8
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png",NUEVE
 #EXTGRP:Nacionales
@@ -70,21 +86,6 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTGRP:Nacionales
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=197&f=HLS&f=.m3u8
 
-#EXTINF:0,ADN40 
-#EXTGRP:Nacionales
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=40&f=HLS&f=.m3u8
-
-#EXTINF:-1 tvg-id="ForoTV.mx",104 Foro TV (FOROTV)
-#EXTGRP:Nacionales
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=104&f=HLS&f=.m3u8
-
-#EXTINF:-1,N+
-#EXTGRP:Nacionales
-https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
-
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://i.postimg.cc/RZhSRBKV/milemnio-tv.png",625 Milenio TV HD (MILENHD)
-#EXTGRP:Nacionales
-https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1252&f=HLS&f=.m3u8
 
 #EXTINF:0,Excelsior tv
 #EXTGRP:Nacionales
@@ -265,6 +266,40 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30
 #EXTGRP:PELCULAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+
+#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/d125b595ce67c76f8b6b55ef94c34272.jpg",HBO
+#EXTGRP:PELCULAS
+http://bulltv.us:2999/darlin/darlin/87
+
+#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/7a5262aeaebfd61a28106eee27a60dc6.jpg",HBO 2
+#EXTGRP:PELCULAS
+http://odenfull.co:2086/142536/142536/108696
+
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/hbo_family.png",HBO Family
+#EXTGRP:PELCULAS
+http://odenfull.co:2086/142536/142536/108692
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO+
+#EXTGRP:PELCULAS
+http://bulltv.us:2999/darlin/darlin/90
+
+#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/c9eb8c603ee20dba2bcf294767e3cf4a.png",HBO Signature
+#EXTGRP:PELCULAS
+http://odenfull.co:2086/142536/142536/108710
+
+#EXTINF:-1,HBO Xtreme
+#EXTGRP:PELCULAS
+http://bulltv.us:2999/darlin/darlin/12277
+
+#EXTINF:-1,HBO Mundi
+#EXTGRP:PELCULAS
+http://odenfull.co:2086/142536/142536/108719
+
+
+#EXTINF:-1,HBO POP
+#EXTGRP:PELCULAS
+http://odenfull.co:2086/142536/142536/108711
+
 #EXTINF:0,Warner channel
 #EXTGRP:PELCULAS
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=205&f=HLS&f=.m3u8
@@ -314,45 +349,12 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=122&f=HLS&f=.m3u8
 
 #EXTINF:-1 tvg-id="GoldenChoiceMulti.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg",431 Golden multiplex
-
 #EXTGRP:PELCULAS
 https://linear-408.frequency.stream/dist/localnow/408/hls/master/playlist.m3u8
 
 #EXTINF:0,My Time 
 #EXTGRP:PELCULAS
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/d125b595ce67c76f8b6b55ef94c34272.jpg",HBO
-#EXTGRP:PELCULAS
-http://bulltv.us:2999/darlin/darlin/87
-
-#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/7a5262aeaebfd61a28106eee27a60dc6.jpg",HBO 2
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108696
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/hbo_family.png",HBO Family
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108692
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO+
-#EXTGRP:PELCULAS
-http://bulltv.us:2999/darlin/darlin/90
-
-#EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/c9eb8c603ee20dba2bcf294767e3cf4a.png",HBO Signature
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108710
-
-#EXTINF:-1,HBO Xtreme
-#EXTGRP:PELCULAS
-http://bulltv.us:2999/darlin/darlin/12277
-
-#EXTINF:-1,HBO Mundi
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108719
-
-#EXTINF:-1,HBO POP
-#EXTGRP:PELCULAS
-http://odenfull.co:2086/142536/142536/108711
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos
 #EXTGRP:PELCULAS
@@ -605,84 +607,77 @@ https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczc
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=3335&f=HLS&f=.m3u8
 
-#EXTINF:-1,⚽ DIRECTV SPORTS 1
-#EXTGRP:Deportes
-http://odenfull.co:2086/142536/142536/135312
 
-#EXTINF:-1,⚽ DIRECTV SPORTS 2
+#EXTINF:-1,DIRECTV SPORTS 2 ⚽
 #EXTGRP:Deportes
 http://odenfull.co:2086/142536/142536/135315
 
-#EXTINF:-1,⚽ DIRECTV SPORTS +
-#EXTGRP:Deportes
-http://odenfull.co:2086/142536/142536/135318
-
-#EXTINF:0,⚽TUDN
+#EXTINF:0,TUDN  ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1049&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽ADRENALINA SPORTS
+#EXTINF:0,ADRENALINA SPORTS ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=1799&f=HLS&f=.m3u8
 
-#EXTINF:-1,⚽Latin America Sports
+#EXTINF:-1,Latin America Sports ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2089&f=HLS&f=.m3u8
 
 
-#EXTINF:0,⚽GOLF 
+#EXTINF:0,GOLF  ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=179&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽ESPN 
+#EXTINF:0,ESPN ⚽ 
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=169&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽ESPN 2
+#EXTINF:0,ESPN 2 ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=168&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽ESPN 3
+#EXTINF:0,ESPN 3  ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=345&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽ESPN Extra
+#EXTINF:0,ESPN Extra ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=167&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽TVC Nacionales
+#EXTINF:0,TVC Nacionales ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2157&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽Bein Sports Extra
+#EXTINF:0,Bein Sports Extra ⚽
 #EXTGRP:Deportes
 https://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
 
-#EXTINF:0,⚽AyM Sports
+#EXTINF:0,AyM Sports ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=180&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽FUEL TV
+#EXTINF:0,FUEL TV ⚽
 #EXTGRP:Deportes 
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2587&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽Fox Sports Op2
+#EXTINF:0,Fox Sports Op2⚽
 #EXTGRP:Deportes
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
-#EXTINF:0,⚽Fox Sports
+#EXTINF:0,Fox Sports ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=170&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽Fox Sports 2
+#EXTINF:0,Fox Sports 2 ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=172&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽Fox Sports 3
+#EXTINF:0,Fox Sports 3 ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=178&f=HLS&f=.m3u8
 
-#EXTINF:0,⚽CLARO SPORTS
+#EXTINF:0,CLARO SPORTS ⚽
 #EXTGRP:Deportes
 https://totalgo.totalplay.com.mx:444/KAN-HLSWeb/liveAdaptive?s=hkc26at86kbpzzczca1k8tpbxazkck268p1xpcp1ztvcx8jj68bxhj61kzxtbkcjjbec2zzb2jbc8a616ta16paej1xzbk1kack2a8t18zpcajhxpa22bbzx8jzxbjhj8tjz8c2jzhjkcek68tkkzajeckbvevkxzkxpkpp68ah2x2aek1ta82bjvjjhvpcbxcxtptvx6zezt1tpb2eha1v6jc2xbvaptj662ve8ttkx22hzcbttxhpt1hva8txte18cza121ekp8te6tpj6kppeket2vzak&l=2564&f=HLS&f=.m3u8
 
@@ -700,10 +695,6 @@ http://185.236.229.31:9981/play/a03c
 #EXTGRP:+18
 http://160.20.164.171:8001/play/a028/index.m3u8
 
-#EXTINF:-1,⛔Pinko Club
-#EXTGRP:+18
-http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRVXnGFZ/penthouse.png",⛔Penthouse Gold
 #EXTGRP:+18
@@ -717,17 +708,10 @@ http://80.24.75.92:5555/udp/239.111.4.2:1234
 #EXTGRP:+18
 http://90.178.66.190:9981/stream/channelid/770343945?profile=pass
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpp7mv9M/hustle.png",⛔Hustler Tv
-#EXTGRP:+18
-http://78.83.191.18:8000/play/a078
-
-#EXTINF:-1 ,⛔Hustler HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Mpp7mv9M/hustle.png",⛔Hustler HD
 #EXTGRP:+18
 http://185.236.229.31:9981/play/a03n
 
-#EXTINF:-1,⛔SEXYHOT
-#EXTGRP:+18
-http://191.212.166.203:4000/play/a0ef
 
 #EXTINF:0,⛔VENUS
 #EXTGRP:+18
@@ -741,17 +725,4 @@ http://62.28.71.186:45678/http/192.168.150.173:7777/hot
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N14NGkR/erox.png",⛔Erox
 #EXTGRP:+18
 http://94.229.250.73:8008/play/a002
-
-#EXTINF:0,⛔Alba
-#EXTGRP:+18
-http://bulltv.us:2999/darlin/darlin/194
-
-#EXTINF:-1 ,⛔SPANK
-#EXTGRP:+18
-http://191.212.166.203:4000/play/a0fw
-
-#EXTINF:-1 ,⛔SEXPRIVE 
-#EXTGRP:+18
-http://191.212.166.203:4000/play/a0fu
-
 
