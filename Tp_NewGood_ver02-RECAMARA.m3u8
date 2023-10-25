@@ -1,73 +1,84 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png",001 Azteca Uno (XHDFTDT)
 #EXTGRP:Nacionales
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 
+#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png", Azteca Uno internacional  (XHDFTDT)
+#EXTGRP:Nacionales
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8/variant.m3u8?url=31db4911e2e03e98c474dabab9d45a4b-1efb35273619e38f95417a7c1f22233509732fd4cf3b4da6bf3975a9f9aefec9ca9ccbd94c4c53d46a3afd96bbbf104b2442101dbcaa6e32fa2fc289a8a4dd42c220432a63de2cd9f5db2d4c9c24c2a76e50878d5592ed6d21ab09fde489a0914cb0cd8145aef0b68f1bdac867c08a46&x-plex-token=JKGfS_Bb4X-xHGM9EeMd&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1698190302
+
+#EXTINF:-1 tvg-id="XHDFAztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png",001 Azteca Uno -1  (XHDFTDT)
+#EXTGRP:Nacionales
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.m3u8
 
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png" ,002 Las Estrellas (XEW)
 #EXTGRP:Nacionales
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
+#EXTINF:-1 ,Canal 10 Pachuca
+#EXTGRP:Nacionales
+https://canaldiez.tv/live/stream/index.m3u8
+
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgc.png",Canal 5 (HD)
 #EXTGRP:Nacionales
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhiA1c0KL5BKuhLHFLz_T6IE
+https://ottmt.cdn.iutpcdn.com/token=p=52~e=1695343323~h=ddf420f2dc5d629b24f5aea07f2d636f/bpk-tv/tp152243/clear/tp152243-audio_99021_spa=98800-video=4630000.m3u8
 
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg" #EXTGRP:Nacionales,Azteca 7 (HD)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" ,Canal 6 CDMX
 #EXTGRP:Nacionales
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 tvg-id="ForoTV.mx",104 ForoTV 
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg, Azteca 7 
+#EXTGRP:Nacionales
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOXSP1MXHD)/manifest.mpd
+
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7 (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg, Azteca 7 opc2 
+#EXTGRP:Nacionales
+https://e4.ainakwalajeen.com:999/hls/tntchile.m3u8?md5=XJ7OeXBdvgUjffMyg1fxEQ&expires=1697968786
+
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://i.postimg.cc/RZhSRBKV/milemnio-tv.png",Milenio TV HD (MILENHD)
+#EXTGRP:Nacionales
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png",NU9VE
+#EXTGRP:Nacionales
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/719
+
+
+#EXTINF:-1 tvg-id="ForoTV.mx",ForoTV 
 #EXTGRP:Nacionales
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
-
 
 #EXTINF:-1 tvg-id="adn40.mx" tvg-name="ADN 40" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg",ADN 40
 #EXTGRP:Nacionales
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" ,AMX Noticias
+#EXTGRP:Nacionales
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
 #EXTINF:-1,N+
 #EXTGRP:Nacionales
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
-
-#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-logo="https://i.postimg.cc/RZhSRBKV/milemnio-tv.png",625 Milenio TV HD (MILENHD)
-#EXTGRP:Nacionales
-https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg",TV MAS
 #EXTGRP:Nacionales
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="AMXNoticias.mx" ,AMX Noticias
+#EXTINF:-1 tvg-id="ExcelsiorTV.mx",Excélsior TV
 #EXTGRP:Nacionales
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+https://ythlsgo.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
 
-
-#EXTINF:-1 tvg-id="Nu9ve.mx" tvg-name="NU9VE" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png",NU9VE
-#EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/85
 
 #EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png" ,Unicable
 #EXTGRP:Nacionales
-http://190.61.102.67:31589/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="Antena3Internacional.mx" tvg-name="Antena 3 Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3.png",Antena 3 Internacional
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL199/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Televisión (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png" ,Imagen Televisión (HD)
 #EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/94
-
-
-#EXTINF:-1 tvg-id="XHCTRMTDT4.mx" tvg-name="Imagen Multicast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx4.jpg",Imagen Multicast
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1449/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDMX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png" ,Canal 6 CDMX
-#EXTGRP:Nacionales
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+https://stream-01.sv4.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLuBpQrWy1v4kyKgGBAKMth1sxkQVHEd8mUnvkqGbTgP1)/dm/3/x82z4if/d/live-2.m3u8#cell=lsv4
 
 
 #EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg" ,Mexiquense Televisión
@@ -76,7 +87,7 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="HLN.mx" tvg-name="HLN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hln.png",HLN
 #EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL197/PROFILE05.m3u8
+
 
 #EXTINF:-1 tvg-id="Teleformula.mx" tvg-name="Teleformula" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png",Teleformula
 #EXTGRP:Nacionales
@@ -84,18 +95,15 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 #EXTINF:-1,Nacionales Univision
 #EXTGRP:Nacionales
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
-
-
+http://45.170.225.212:58001/play/a01g/index.m3u8
 
 #EXTINF:-1,Unimas
 #EXTGRP:Nacionales
-https://v-ny.mybtv.net/live/713.m3u8?env=prd&uid=-1&x=1&fbclid=IwAR16Ldxv8a6ARIljbd9e-Sz_MnrfGrEsLqjlBZeODUCGra11Thi3Z8nGgco&fbclid=IwAR2pvCAia-1mRCvwvRYpYd0oLDWupbaC91pybMOspY33TJo59UVGb9RYxfk
 
 
 #EXTINF:-1 tvg-id="TelemundoInternacional.mx" tvg-name="Telemundo Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png",Telemundo Internacional
 #EXTGRP:Nacionales
-http://181.189.243.254:8000/play/a0q9/index.m3u8
+http://45.170.225.212:58001/play/a00h/index.m3u8
 
 
 #EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-name="Canal Once" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png",Canal Once
@@ -104,11 +112,10 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png",DW (Español)
 #EXTGRP:Nacionales
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-id="WorldofBusinessIdeas.mx" tvg-name="WOBI" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/wobi.png",WOBI
 #EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="CNNEnEspanol.mx" tvg-name="CNN En Español" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png",CNN En Español
@@ -118,32 +125,27 @@ https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN(English).mx" tvg-name="CNN International (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png" ,CNN International (HD)
 #EXTGRP:Nacionales
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 
 #EXTINF:0,Euronews
 #EXTGRP:Nacionales
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/j2q0SHhd/estrella-news.png",ESTRELLA NEWS HD
 #EXTGRP:Nacionales
-https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="BBCWorldNews(English).mx" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bbcwn.png" ,BBC World News
 #EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL191/PROFILE05.m3u8
 
 #EXTINF:0,ABC NEWS
 #EXTGRP:Nacionales
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:0,SKY NEWS
 #EXTGRP:Nacionales
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol(English).mx" tvg-name="France 24 (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png" ,France 24 (Español)
 #EXTGRP:Nacionales
-http://576209368611339758.ofio.xyz:80/play/HCMNP577MK/1470603756/339758.ts
+https://ythlsgo.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png",RT (Español)
 #EXTGRP:Nacionales
@@ -155,138 +157,140 @@ https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxNewsChannel.mx" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/foxn.png",Fox News
 #EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL188/PROFILE05.m3u8
 
-#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png",Corazón
-#EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/23
-
-#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png",Comedy Central
-#EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" ,Distrito Comedia
-#EXTGRP:Nacionales
-http://megaxplay.com:80/play/zjcxeGr2K_h3VxhgXHJAhk7N5vLEPonEAhniRbueJhI
-
-#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" ,Ingenio TV
-#EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL401/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png",A+
-#EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2278/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png",ElGourmet
-#EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/31
-
-
-#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png",Food Network
-#EXTGRP:Nacionales
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79472.ts
-
-
-#EXTINF:-1 tvg-id="Mundo.mx" tvg-name="Mundo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mundo.png" ,Mundo
-#EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL276/PROFILE05.m3u8
-
-#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" ,Glitz
-#EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
-
-
-#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
-#EXTGRP:Nacionales
-http://50.7.66.234:8080/monicaferraz/518260/1156013
-
-#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" ,¡Hola! TV
-#EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/93
-
-
-#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png",TruTV
-#EXTGRP:Nacionales
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79072.ts
-
-
-#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png",TBS
-#EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/119
-
-
-#EXTINF:-1,AXN
-#EXTGRP:Nacionales
-http://50.7.66.234:8080/monicaferraz/518260/1155784
-
-#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png",Tlnovelas
-#EXTGRP:Nacionales
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
-
-
-#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png",Lifetime
-#EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/95
-
-#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg",TLC
-#EXTGRP:Nacionales
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46233.ts
 
 #EXTINF:-1 tvg-id="EEntertainmentTV.mx" tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png" ,E!
 #EXTGRP:Nacionales
-http://45.166.92.22:58001/play/a00n/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/516
+
 
 #EXTINF:-1 tvg-id="DiscoveryHomeandHealth.mx" tvg-name="Discovery Home & Health" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png",Discovery Home & Health
 #EXTGRP:Nacionales
-http://45.166.92.22:58001/play/a027/index.m3u8
+http://45.170.225.212:58001/play/a00v/index.m3u8
 
-
-#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png",Mas Chic
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
 #EXTGRP:Nacionales
-http://elmonkey.us:25461/Victor/Victor/96
+http://45.170.225.212:58001/play/a00f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Corazon.mx" tvg-name="Corazón" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png",Corazón
+#EXTGRP:Nacionales
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-64694d52f73356567a64ce8c/variant.m3u8?url=57605f72fd6a5ac89211b8df502f2e46-d39065b2b0e372256e9e91118d231343df55226b879fff5e9009b05090dba01096f6724839c5ee52b72cd4307c0ee219eb3785baf895882ad601025dbd2d2a20be8331c8b5e82ad019427f605d56715d8c15f26cd8f38f9c64522c070bf1f6f7&x-plex-token=JKGfS_Bb4X-xHGM9EeMd&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1698191412
 
 
 #EXTINF:-1 tvg-id="HGTV.mx" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/civil.png",HGTV
 #EXTGRP:Nacionales 
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79474.ts
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
+
+
+#EXTINF:-1 ,Pasiones
+#EXTGRP:Nacionales
+http://45.170.225.212:58001/play/a01f/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/comedyc.png",Comedy Central
+#EXTGRP:Nacionales
+http://45.170.225.212:58001/play/a00x/index.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clasico.png" ,Distrito Comedia
+#EXTGRP:Nacionales
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+
+
+
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-name="Ingenio TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/INGENIO.jpg" ,Ingenio TV
+#EXTGRP:Nacionales
+
+#EXTINF:-1 tvg-id="(Dummy Local Programming)" tvg-name="A+" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhfn2.png",A+
+#EXTGRP:Nacionales
+
+#EXTINF:-1 tvg-id="ElGourmet.mx" tvg-name="ElGourmet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png",ElGourmet
+#EXTGRP:Nacionales
+https://ottmt.cdn.iutpcdn.com/token=p=50~e=1695376717~h=1d2fa3a8c547e80dbd97e07cf0ce0132/bpk-tv/tp1574/clear/tp1574-audio_99021_spa=98800-video=4630000.m3u8
+
+
+#EXTINF:-1 tvg-id="FoodNetwork.mx" tvg-name="Food Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/food.png",Food Network
+#EXTGRP:Nacionales
+
+
+#EXTINF:-1  tvg-name="az Mundo" ,Az Mundo
+#EXTGRP:Nacionales
+https://stream.ads.ottera.tv/cl/230913ck0v9n0p7bq6tm3483og/1280x720_3071200_0_f.m3u8?i=475_4828
+
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/glitz.png" ,Glitz
+#EXTGRP:Nacionales
+
+
+
+#EXTINF:-1 tvg-id="HOLATV.mx" tvg-name="¡Hola! TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg" ,¡Hola! TV
+#EXTGRP:Nacionales
+http://45.170.225.212:58001/play/a00w/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TruTV.mx" tvg-name="TruTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/trutv.png",TruTV
+#EXTGRP:Nacionales
+
+
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png",TBS
+#EXTGRP:Nacionales
+
+#EXTINF:-1 ,DHE
+#EXTGRP:Nacionales
+http://45.170.225.212:58001/play/a00l/index.m3u8
+
+#EXTINF:-1,AXN
+#EXTGRP:Nacionales
+http://45.170.225.212:58001/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="TLNovelas.mx" tvg-name="Tlnovelas" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tln.png",Tlnovelas
+#EXTGRP:Nacionales
+
+
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png",Lifetime
+#EXTGRP:Nacionales
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/568
+
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlc.jpg",TLC
+#EXTGRP:Nacionales
+http://45.170.225.212:58001/play/a03i/index.m3u8
+
+#EXTINF:-1 tvg-id="MasChic.mx" tvg-name="Mas Chic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png",Mas Chic
+#EXTGRP:Nacionales
+
 
 #EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/d125b595ce67c76f8b6b55ef94c34272.jpg",HBO
 #EXTGRP:PELCULAS
-http://170.83.242.8:5350/play/a001
+http://45.170.225.212:58001/play/a026/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/7a5262aeaebfd61a28106eee27a60dc6.jpg",HBO 2
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/88
+http://45.170.225.212:58001/play/a027/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/hbo_family.png",HBO Family
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/89
+http://45.170.225.212:58001/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO+
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/90
+http://45.170.225.212:58001/play/a028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/246
 
 #EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/97
+http://45.170.225.212:58001/play/a02a/index.m3u8
 
 
 #EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
 #EXTGRP:PELCULAS
-http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/30347.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png",HBO POP
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/98
 
 
 #EXTINF:-1 tvg-id="ISAT.mx" tvg-name="I-Sat" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/isatarg.png",I-Sat
 #EXTGRP:PELCULAS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46167.ts
+
 
 #EXTINF:0,Pluto Familia
 #EXTGRP:PELCULAS
@@ -298,49 +302,75 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bc
 
 #EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/warner.png",Warner
 #EXTGRP:PELCULAS
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/46249.ts
+http://45.170.225.212:58001/play/a01r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnt.png",TNT
 #EXTGRP:PELCULAS
-http://45.190.13.50:8003/play/a02w/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/660
 
 
 #EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png",TNT Series
 #EXTGRP:PELCULAS
-http://181.189.243.254:8000/play/a0ta/index.m3u8
+http://45.170.225.212:58001/play/a01b/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.mx" tvg-name="Paramount Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png" ,Paramount Network
 #EXTGRP:PELCULAS
-http://50.7.66.234:8080/monicaferraz/518260/1155799
-
+http://45.170.225.212:58001/play/a01a/index.m3u8
 
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG",Space
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/113
+http://45.170.225.212:58001/play/a01n/index.m3u8
 
 
 #EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png",Studio Universal
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/116
+http://45.170.225.212:58001/play/a00a/index.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.mx" tvg-name="Universal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",Universal
 #EXTGRP:PELCULAS
-http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/364
+
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" ,Universal Reality
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a011/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" ,Universal Comedy
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" ,Universal Cinema
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" ,Universal Crime
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" ,Universal Prime
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTV.mx" ,Universal Prime
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png" ,Cinecanal
 #EXTGRP:PELCULAS
-http://50.7.66.234:8080/monicaferraz/518260/1155785
+http://45.170.225.212:58001/play/a03b/index.m3u8
 
+
+#EXTINF:-1 ,Multipremier
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a03e/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fx.png",FX
 #EXTGRP:PELCULAS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46130.ts
-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc.png" ,Golden
 #EXTGRP:PELCULAS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46143.ts
+
 
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png" ,Golden Edge
 #EXTGRP:PELCULAS
@@ -351,15 +381,19 @@ http://190.95.220.212:8000/play/a01k/index.m3u8
 #EXTGRP:PELCULAS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
+#EXTINF:-1,Golden PREMIER
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a02f/index.m3u8
 
+#EXTINF:-1,Golden PREMIER2
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="GoldenChoiceMulti.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg",431 Golden multiplex
 #EXTGRP:PELCULAS
-https://linear-408.frequency.stream/dist/localnow/408/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GoldenChoiceMulti.mx" tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg",431 Golden multiplex -1
 #EXTGRP:PELCULAS
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/golden-multiplex-150x150-863050323.jpg",431 Golden PREMIER
 #EXTGRP:PELCULAS
@@ -372,15 +406,19 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png" ,Cinemax
 #EXTGRP:PELCULAS
-http://50.7.66.234:8080/monicaferraz/518260/1068350
+http://45.170.225.212:58001/play/a03a/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png",AMC
 #EXTGRP:PELCULAS
-http://50.7.66.234:8080/monicaferraz/518260/4118
 
 #EXTINF:-1 tvg-id="CanalSony.mx" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sony.png",Sony Channel
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a01s/index.m3u8
+
+#EXTINF:-1 ,Sony movies
+#EXTGRP:PELCULAS
+http://45.170.225.212:58001/play/a00k/index.m3u8
 
 #EXTINF:-1 tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png",TCM
 #EXTGRP:PELCULAS
@@ -388,58 +426,59 @@ http://elmonkey.us:25461/Victor/Victor/120
 
 #EXTINF:-1 tvg-id="SYFY.mx" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png",SYFY
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/118
+http://45.170.225.212:58001/play/a00b/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Película" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatino.png" ,De Película
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL335/PROFILE05.m3u8
+https://dcs3-live.mp.lura.live/server/podserve/AlxLxdT4v8PqiLyA/rendition.m3u8?track=video-5&ts=1694625933&psi=4ffea9f470af4aabb887292a46d8d0b2&encp=xA988cABLcW4Ex-9NyGyxg:9KJxvNdEtHBE8tVIQXwLQt4fLmaKkuuFZBK27JscttL7GGz9dNPE0IAmVreNCya-hlmOncMP23NphtobEk9356UkdFRoZe9K1lUYGpxgiav2SdSncyW7HF-pdrnhO0b7AACUIm6mPFs21VjjEpWSbgGEy3Za4dozshLakbnpdOqkXl3pbj_pLMTSUT4oVSHsPJA8L5-R1Cv6oG1xZ6aqqXpjUrl2o8EsoYywbsgwpvu3AdaqpJgWcAd5-VMOVUDgV8f_n5n8X3LCzgIbU6Ma6RvTr9FWPtKXZoRmdJCcMzFYk1qLW4i-q1yyRoVAk8Oloru6oqIAG5F40J7CuRZ086YDyGeTjU_SnRHXFrhZubZgVJZGdQ5_Mr31GqQBToeYAezGJfWHJOs9RhFXVw_hzeAFRLf0SvWQpseqIQv82MAdIlTOnx1wtZ5M4hwOu15KOLi3wpwUFvgdIyLmuCKTsnif7mFwV3vetgsRFlk_hFPtNnfwMZoKiFU-vCfELU1E_NLdQ0QXCaoTB1aYYZJh03L95G5yNbWa9z_fuRWFtGSmY5e-Sryd8KhPTgWSx04hufvT4mVPiTCm1vaQoSEskLz4FM0q54UVy1zrkL5yHZNHCLIWfzEFcxfP_MIGnQx-01PugOZddW6WzoZNtZFVXs-ySWrEWmJZ1d2z4JvmOtcC46HipOAxMroyHz-3rfg-prFoQ5wV2a0CGWfOHegpddDoyKgpPSCkolveU73P6mef_gokL5Z0L2EDpA6qjeWdMhZAGOCwEUtEJWWjbFvqw2s-YLh7PSz1K42hIkJWurRM6YzvMBgOZvg1TuybpMSeOzLW-4OkSypUXI8V3FSOjyJFJmdeQy214vsArQ0WK96L1d2RKmJLj6W0PjQlpYbO1dsglXMydJ7EwCsxzXkzhmRkv67s73ko8mrXPSB788b8UmXJKCAhb7BBuoWpMU4j6zWSpU3BRmKmsIG0BmQPd4sIJwYM4O9ArBKIKkqVJqoxkyODt7Xkp7CQ2rvXIBSWB63OSWLCVaap7CdOx66Y_yH9kWXZlHqjrz9CEeT8jtE&pcqx=ce545d4987b6b35bcf3ea899fe9e7db9&sid=[[STREAMID]]
 
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Película Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cortelatinohd.png" ,De Película Plus
+https://dcs3-live.mp.lura.live/server/podserve/Ag5p5mFWlJP8cQl7/rendition.m3u8?track=video-5&ts=1694625949&psi=f264e0134a7df5d92f4e521abbc3870e&encp=8SBZTFjKr62bZxKUSqc6-Q:ZPFSJwDDF--iVkPwMzUkjwfgfjY-PX3-J7RnaoDCTR824rreMVw83coRmaFmdsIUPW57MA90sCFmXgMAmCVbpAR9g85dWVMViYsGFpbfr4S9wbGAhC5MysfoZdCSBqHumitVUJCLdE_eOLtuHoMuS2nnrAFdGESe7dMAEg7_QLJ-pKzWfxYZUlbrWv5KjZlSAs9P32EhN_EVz95p44aGjMTjj3zZ-9XowwIKAW00OhILHYTUBooCMqp0E3aYKINRTiN8nMNcPlSBzCKHnGCLOqQfDp8UeDxoE97YjRpox9NWiAa_19DqgTDm4cUVnintGXQmqGZuG0364yqs6SHx-t0eLU-0EHMtid2bXheqbSEoWSy8-KhUMSGZMTdbCt9o_zrXxzb0jnUh2MA3Zstrd1Im9C4K0RG5iOoH1BTD_sxyaoU29YxPyl1N0PHZq4BFi9ssy51HZhdkxsz9vI_PF319fts8Y6dDdl0EZEBCzAhNv43fYbWIzc13TKUyWri7I4LRxEmIuUZJDxObG8FvHe18QOEh8bbFm8YirgZfggOvAk6XSBbbHeX0m9iAb9MwlVDXSb4EM02ydeACrPWphsPeN4kSleJEjC0LYUmnQfa4xhessLl2rRgSBpzcMQsFb5LnkblTq1edEyLC-hiTZRMr5MeJCPJi3r6TJ7fSOKJ-DMKPbJ_CwawKh3hQ0wux0e9r69EqM2aktJvWF7uIg41yf-GCVhtMqYAWfZXTe0rxx7hfBcVSWqGuWvwtkpgvsCGjfFlsXwxj80SYBPjC6S1BKo99xa-wovSsh3icvwzKnNp1tnBdRoHmNbIaQeIWjidppLD7MRssPwumjczghUTBD0p2UWAcMWdj0NPm9djNx6kIjNjS_KAfGXPuHIlxCuzpe5_bNDiojr_EfuXwTPNk1VnCUBdPK5t0nMJAJhSe4FVOaR6HujsHBFWXyUYx2oK01YhWTqbFWX3aGTjDZQXhO3QQz6n7gjn130ZThfIqRyHvtjOnIpSLVaa6zT3Kg3tYWfGO48iV3zO5aRBwrXKo8jyeJUziOpNICleW4vI&pcqx=50ee536f7567b894703ba7868ed2b2af&sid=[[STREAMID]]
 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.mx" tvg-name="Cinema" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png" ,Cinema
 #EXTGRP:PELCULAS
-http://elmonkey.us:25461/Victor/Victor/22
 
 
 #EXTINF:-1 tvg-id="MorbidoTV.mx" tvg-name="Morbido TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/morbido.png",Morbido TV
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL470/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="StarChannel.mx" tvg-name="Star Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png" ,Star Channel
 #EXTGRP:PELCULAS
-http://50.7.66.234:8080/monicaferraz/518260/4121
+http://45.170.225.212:58001/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="TVEAmericaTelevisionEspanola.mx" tvg-name="TVE Internacional" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tve.png",TVE Internacional
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="StarTVE.mx" tvg-name="TVE Star HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/startve.png",TVE Star HD
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2375/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a00n/index.m3u8
 
 #EXTINF:-1 tvg-id="Atrescine(Spanish).us" tvg-name="A3 Cine" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png",A3 Cine
 #EXTGRP:PELCULAS
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+
 
 #EXTINF:-1 tvg-id="Atreseries.mx" tvg-name="A3 Series" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png",A3 Series
 #EXTGRP:PELCULAS  
 http://livex.pop-app.live/s4n/poptv/AntenaSeries.TecnoByte/chunks.m3u8
 
-
 #EXTINF:-1 tvg-id="EuropaEuropa.mx" tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/europa.png",Europa Europa
 #EXTGRP:PELCULAS
-http://mael-tv.online:8080/live/gerald-garcia2023/gerald-garcia2023/46125.ts
+http://45.170.225.212:58001/play/a00j/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FilmandArts.mx" tvg-name="Film & Arts" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/filmarts.jpg",Film & Arts
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL137/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-id="Bitme.mx" tvg-name="BitMe" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bit.png",BitMe
 #EXTGRP:PELCULAS
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2591/PROFILE05.m3u8
+
+#EXTINF:-1,Canal claro
+#EXTGRP:PELCULAS 
+http://45.170.225.212:58001/play/a023/index.m3u8
 
 
 #EXTINF:0,NASA 
@@ -448,69 +487,66 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 #EXTINF:-1 tvg-id="History.mx" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png",History
 #EXTGRP:Ciencia
-http://168.194.171.33:8000/play/a05m/index.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/565
 
 
 #EXTINF:-1 tvg-logo="http://shashe.dianshiwang.vip:27000/images/650cb31b47c46afc1f8e843d9e726802.jpg",History 2
 #EXTGRP:Ciencia
-http://190.61.102.67:31589/play/a00v/index.m3u8
+https://ottmt.cdn.iutpcdn.com/token=p=52~e=1695343323~h=ddf420f2dc5d629b24f5aea07f2d636f/bpk-tv/tp152243/clear/tp152243-audio_99021_spa=98800-video=4630000.m3u8
 
 #EXTINF:-1 tvg-id="CuriosityStream(English).mx" tvg-name="Curiosity Stream" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/curio.png",Curiosity Stream
 #EXTGRP:Ciencia
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2594/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png",Animal Planet
 #EXTGRP:Ciencia
-http://181.189.243.254:8000/play/a0q4/index.m3u8
+http://45.170.225.212:58001/play/a00c/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png",Discovery
 #EXTGRP:Ciencia
-http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/336
+http://45.170.225.212:58001/play/a01c/index.m3u8
 
 #EXTINF:-1 tvg-id="ID.mx" tvg-name="ID" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/peoplearts.png",ID
 #EXTGRP:Ciencia
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2376/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a01h/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dthd.png" ,Discovery Theater HD
 #EXTGRP:Ciencia
-http://mael-tv.online:8080/live/aaron-garcia2023/aaron-garcia2023/79464.ts
+http://45.170.225.212:58001/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience.mx" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png" ,Discovery Science
 #EXTGRP:Ciencia
-http://181.189.243.254:8000/play/a0ny/index.m3u8
+http://45.170.225.212:58001/play/a006/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/world.png",Discovery World HD
 #EXTGRP:Ciencia
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
-
+http://45.170.225.212:58001/play/a01e/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.mx" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/turbo.png",Discovery Turbo
 #EXTGRP:Ciencia
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2379/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a03d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png",National Geographic
 #EXTGRP:Ciencia
-http://elmonkey.us:25461/Victor/Victor/102
-
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
 
 #EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png",Cartonito
 #EXTGRP:Infantiles
-http://elmonkey.us:25461/Victor/Victor/30
-
-#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png",Cartoon Network
-#EXTGRP:Infantiles
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 ,Cartoonito
+#EXTGRP:Infantiles
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="BabyTv.mx" tvg-name="Baby TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png",Baby TV
 #EXTGRP:Infantiles
-http://181.189.243.254:8000/play/a0ns/index.m3u8
+http://45.170.225.212:58001/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirstAmericasSpanish.mx" tvg-name="Baby First" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/b1st.png",Baby First
 #EXTGRP:Infantiles
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1984/PROFILE05.m3u8
+https://ottmt.cdn.iutpcdn.com/token=p=52~e=1695340129~h=ebbd2169ee586c003406cf9a1ba3cd18/bpk-tv/tp121984/clear/tp121984-audio_99021_eng=98800-video=2609200.m3u8
 
 #EXTINF:0,KIDS
 #EXTGRP:Infantiles
@@ -519,59 +555,55 @@ https://linear-355.frequency.stream/dist/localnow/355/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dc.png",Disney Channel
 #EXTGRP:Infantiles
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL312/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a03f/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png",Disney Junior
 #EXTGRP:Infantiles
-http://elmonkey.us:25461/Victor/Victor/27
+http://45.170.225.212:58001/play/a02z/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.mx" tvg-name="Nick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png",Nick
 #EXTGRP:Infantiles
-http://elmonkey.us:25461/Victor/Victor/105
+http://45.170.225.212:58001/play/a00r/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TeenNick.mx" tvg-name="Teennick" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnick.png",Teennick
 #EXTGRP:Infantiles
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2147/PROFILE05.m3u8
-
+http://45.170.225.212:58001/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.mx" tvg-name="Nick Jr." tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png",Nick Jr.
 #EXTGRP:Infantiles
-http://elmonkey.us:25461/Victor/Victor/106
-
+http://45.170.225.212:58001/play/a02x/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dk.png",Discovery Kids
 #EXTGRP:Infantiles
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE05.m3u8
-
+http://45.170.225.212:58001/play/a03y/index.m3u8
 
 #EXTINF:-1 tvg-id="Tooncast.mx" tvg-name="Tooncast" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tooncast.png",Tooncast
 #EXTGRP:Infantiles
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL328/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a03g/index.m3u8
 
 #EXTINF:0,Vevo
 #EXTGRP:Musica
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="MTV.mx" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv.png" ,MTV
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a01z/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Clic.mx" tvg-name="Clic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/clic.png",Clic
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a63-6469502df73356567a64ce8e/variant.m3u8?url=8a363d362e26ab9465568273fae178c1-4ad59a46835a335370f849ad0f044c58652f468a1a48b52a990e48431cf4cb85694c56b3ba8ef4316c7d6bd8772bf1817724a07b8dca4011d70639a7169afd26c5f0cb09662623554ee579ef6583f0bd6140e8aee0f6d9e99e45c8ae1b7d0a547990c9f9732874f73a98d8a4b0612041&x-plex-token=JKGfS_Bb4X-xHGM9EeMd&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1698190551
 
 
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="Bandamax" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bmax.png" ,Bandamax
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+https://dcs3-live.mp.lura.live/server/podserve/019n91h1VmpZs4e0/rendition.m3u8?track=video-5&ts=1694623685&psi=43b19995d7ad2357a7169489a65bc958&encp=hgqJ1QKg_K4Q4IScBi1U4A:5VRcqsB-lmQXONYuADBxfMoXVvBWEJaiMuehKXBpyJ2hJRzL5udcETozpfMdLCO5JeIrJsGEvTFsJBf0Rpupiw1gnw_jnPo_Vunf0ckmUzE5XgnogfuXBzByZxFED2A-6mboONGFRiL3wJpZ47OT56EHqksgnF_49nvCr5E6ghDZxXKHZGXojdVAd39HUym54cTEWEVIAUwCios9SHxdEps51ZvLXBDUWyPfGHWc7jPH4TUa4ioQS_nUkW-IaKt8OS0khD-imIKAisCzHTwuOyDBcv_lS4N5H72Pesqeo679xBwbQdZUqHYqd1dA_peZLgvlkPtiTXlMV1LqeCF1MJfKhGP8GeFKQQ4gdvGuh0-L-gQN6AdRxHuC7jBhUfSbbUjaf92Jq5beA4okEJycNW0UTvhJAAJm26MiYxYZpyFqMBrQtVbTHmlq3gfcPszQTc9zgYEIKqhcyrW9G1A7lvl2O60iDhwXVZh4LI1uUTzx9779qszpi4po0zHaRHy23T9FwgFumVxJLG10QXIY3Kkf-JHHkvKRbx3MQAL-YhefF9OpGGj7_xpv61uM-JxHQS5vO_cR_cYGIYrAbAlC1yOEz6kyDf-IeTAqAYJDZfcttdZl9HLh27Dhx81OjrE26KIzxNDHt9OXbqeXGQXfLX21yY4abuPw9Q4sQpv_5GGKADwuEQJc7I8zTFEGrI8gF2Bm2vjNpeLe7x14PVUv9sJobCakvx0I_HqsSX0ljj6dMEUKt1Tr0sSRa_dmMqvfRUxf6KrbG6EBlaAzaCWVCs7n4Q34t6SYkp8iWYBcLNq6xaGG9V08cL0HKqTZcer0QChYMaMTKIo77geXxcG-gL96i9IjBQe1H9uspHtAeaKIFSD5l6tEIH7HCltDf4OqlFEa0c3_iOB9PYmwEdm9ToGjKkhqrVlVYXh2lM2Zg7zFr8TiDCeiuZZ6R920qKRH7KJ8a71RC8AQ5Eo-HJqh2JGa7NXBg6WFNrhE0cb3Wj8-zQIxzmMts6jJRFarSkqGS_P3GspBdjVG16Z3U6QycTo5HWLw0_EmhiY2VCaS5uA&pcqx=57f0d7f3301c8d81c9cf60adfa9f5965&sid=[[STREAMID]]
 
 #EXTINF:-1 tvg-id="TelehitMusica.mx" tvg-name="Telehit Música" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png",Telehit Música
 #EXTGRP:Musica
-http://elmonkey.us:25461/Victor/Victor/122
 
 
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg",Teleritmo
@@ -581,125 +613,116 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-1 tvg-id="TelehitMusicaPlus.mx" tvg-name="Telehit Música Plus" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/thp.png",Telehit Música Plus
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="MTVHits.es" tvg-name="MTV Hits" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvh.png" ,MTV Hits
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVLive(English).mx" tvg-name="MTV Live HD" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtvl.png",MTV Live HD
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
-
+http://45.170.225.212:58001/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV80s.mx" tvg-name="MTV 80s" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/mtv80.png",MTV 80s
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
 
 
 
 #EXTINF:-1 tvg-id="Nickmusic.mx" tvg-name="Nickmusic" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nickm.png",Nickmusic
 #EXTGRP:Musica
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL314/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="ElGarage.ar" tvg-name="Garage TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/garage.png" ,Garage TV
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
 
-
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png",⚽ Claro Sports 2
+#EXTGRP:Deportes
+http://45.170.225.212:58001/play/a022/index.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" ,⚽ TUDN (HD)
 #EXTGRP:Deportes
-http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png" ,⚽ ZONATUDN 
+#EXTGRP:Deportes
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+
+#EXTINF:-1,⚽ Afizzionados
+#EXTGRP:Deportes
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/729
 
 #EXTINF:-1 tvg-id="PXSports.mx" tvg-name="PXSports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/pxs.png",⚽ PXSports
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="AdrenalinaSportsNetwork.mx" tvg-name="Adrenalina Sports Network" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/asn.png" ,⚽ Adrenalina Sports Network
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL1799/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="LatinAmericanSports.mx" tvg-name="Latin American Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/las.png",⚽ Latin American Sports
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2089/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="TheGolfChannelLatinoamerica.mx" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/golf.png",⚽ Golf Channel
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE05.m3u8
+http://45.170.225.212:58001/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn.png", ⚽ ESPN
 #EXTGRP:Deportes
-https://cotesma02.cdn.rcs.net.ar/mnp/espn/output.mpd
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn2.png",⚽ ESPN 2
 #EXTGRP:Deportes
-https://cotesma02.cdn.rcs.net.ar/mnp/espn2/output.mpd
+http://45.170.225.212:58001/play/a017/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espn3.png",⚽ ESPN 3
 #EXTGRP:Deportes
-https://cotesma02.cdn.rcs.net.ar/mnp/espn3/output.mpd
+http://45.170.225.212:58001/play/a016/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="ESPN Extra" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/espnextra.png",⚽ ESPN Extra
 #EXTGRP:Deportes
-https://cotesma02.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
+http://45.170.225.212:58001/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" ,⚽ DIRECTV SPORTS
 #EXTGRP:Deportes
-http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" ,⚽ DIRECTV SPORTS +
 #EXTGRP:Deportes
-http://190.119.178.46:8000/play/a034/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-name="TVC Deportes" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvcd.png",⚽ TVC Deportes
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2157/PROFILE05.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/761
 
 
 #EXTINF:-1 tvg-name="TNT Sports" tvg-logo="http://castlempire.site:8080/images/dade0532d9af9cde78f0b35201cb3f3f.jpg",⚽ TNT Sports
 #EXTGRP:Deportes
-http://castlempire.site:8080/UserTest4Octubre_00k/uek4neVNWyxE/169972
 
 #EXTINF:0,Bein Sports Extra ⚽
 #EXTGRP:Deportes
-https://siloh.pluto.tv/lilo/production/bein/1/master_2.m3u8
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/488
 
 #EXTINF:-1 tvg-id="AyMSports.mx" tvg-name="AYM Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/aym.jpg",⚽ AYM Sports
 #EXTGRP:Deportes
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE05.m3u8
 
 
 #EXTINF:-1 tvg-id="FuelTV(English).de" tvg-name="Fuel TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fuel.png",⚽ Fuel TV
 #EXTGRP:Deportes 
-http://ott.cdn.iutpcdn.com/LIVE/H01/CANAL2587/PROFILE05.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox1.png" ,⚽ Fox Sports
 #EXTGRP:Deportes
-https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox2.png",⚽ Fox Sports 2
 #EXTGRP:Deportes
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 
 #EXTINF:-1 tvg-id="FoxSports3.mx" tvg-name="Fox Sports 3" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/fox3.png" ,⚽ Fox Sports 3
 #EXTGRP:Deportes
-https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+http://45.170.225.212:58001/play/a018/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports (HD)" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png",⚽ Claro Sports (HD)
-#EXTGRP:Deportes
-https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0N14NGkR/erox.png",⛔Erox
@@ -722,30 +745,6 @@ http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5012/index.m3u8
 #EXTGRP:+18
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/242/index.m3u8
 
-#EXTINF:-1,⛔ VividRed
+#EXTINF:-1,⛔ Playboy
 #EXTGRP:+18
-http://576209368611431672.ofio.xyz:80/play/HCMNP577MK/1470603756/431672.ts
-
-
-#EXTINF:0,⛔ PentHouse gold
-#EXTGRP:+18
-http://576209368611454410.ofio.xyz:80/play/HCMNP577MK/1470603756/454410.ts
-
-#EXTINF:-1,⛔ Blue Hustler
-#EXTGRP:+18
-http://576209368611405100.ofio.xyz:80/play/HCMNP577MK/1470603756/405100.ts
-
-#EXTINF:-1,⛔ gusway
-#EXTGRP:+18
-http://576209368611392536.ofio.xyz:80/play/HCMNP577MK/1470603756/392536.ts
-
-#EXTINF:-1,⛔Brazzers
-#EXTGRP:+18
-http://576209368611473766.ofio.xyz:80/play/HCMNP577MK/1470603756/473766.ts
-
-#EXTINF:-1,⛔ PentHouse passion
-#EXTGRP:+18
-http://576209368611457130.ofio.xyz:80/play/HCMNP577MK/1470603756/457130.ts
-
-#EXTINF:-1,⛔Playboy
-http://576209368611458476.ofio.xyz:80/play/HCMNP577MK/1470603756/458476.ts
+http://45.170.225.212:58001/play/a02h/index.m3u8
